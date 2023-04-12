@@ -1,0 +1,7 @@
+\begin{tabular}{lrrrr}
+ & coef & exp(coef) & se(coef) & p \\
+covariate &  &  &  &  \\
+Num_Firms_In_CITY & 0.02 & 1.02 & 0.04 & 0.69 \\
+City_STEM_Students & 0.01 & 1.01 & 0.02 & 0.78 \\
+\end{tabular}
+

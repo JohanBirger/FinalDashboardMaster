@@ -1,0 +1,8 @@
+\begin{tabular}{lrrrr}
+ & coef & exp(coef) & se(coef) & p \\
+covariate &  &  &  &  \\
+Num_Firms_In_ZIP & -0.28 & 0.76 & 0.04 & 0.00 \\
+ZIP_Business_Students & -0.03 & 0.97 & 0.01 & 0.05 \\
+ZIP_STEM_Students & 0.02 & 1.02 & 0.01 & 0.11 \\
+\end{tabular}
+

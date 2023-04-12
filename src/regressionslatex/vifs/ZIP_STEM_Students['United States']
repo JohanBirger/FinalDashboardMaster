@@ -1,0 +1,41 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>feature</th>
+      <th>VIF</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>event_dead</td>
+      <td>1.118940</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Lifetime</td>
+      <td>1.112787</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>country_United States</td>
+      <td>11.680361</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Num_Firms_In_ZIP</td>
+      <td>1.011177</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>ZIP_Business_Students</td>
+      <td>2.826670</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>ZIP_STEM_Students</td>
+      <td>2.818717</td>
+    </tr>
+  </tbody>
+</table>
