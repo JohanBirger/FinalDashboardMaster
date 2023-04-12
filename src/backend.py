@@ -5,30 +5,18 @@ import matplotlib.pyplot as plt
 from lifelines.utils import datetimes_to_durations
 from lifelines import CoxPHFitter
 import os
-import json
 import base64
 import io
-from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
-from matplotlib.figure import Figure
-import ipywidgets as widgets
-from IPython.display import display
-from IPython.display import clear_output
 #from IPython.display import HTML, Javascript, display
 import numpy as np
-import nbformat
-from nbconvert.preprocessors import ExecutePreprocessor
 import cufflinks as cf
 import plotly.offline as pyo
-import pickle
-import time
 from statsmodels.stats.outliers_influence import variance_inflation_factor
 import sys
-import re
-   
 import numpy as np
 import matplotlib.pyplot as plt
-from sklearn.cluster import KMeans
-from matplotlib import cm
+
+
 
 
 def get_countries(df):
