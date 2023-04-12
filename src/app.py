@@ -346,4 +346,4 @@ def input_triggers_nested(value):
     return None
 
 if __name__ == "__main__":
-    app.run_server(debug=True)
+    app.run_server(debug=False)
